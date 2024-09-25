@@ -106,7 +106,7 @@ int main() {
     // Output secret keys
     printf("\nSecret key for User 1 is %d\n", k1);
     printf("Secret key for User 2 is %d\n", k2);
-    printf("CODE BY HARSAYAZHENI.P.Y\n");
+    printf("CODE BY Raja lakshmi E\n");
 
     if (k1 == k2) {
         printf("Keys have been exchanged successfully\n");
@@ -118,8 +118,6 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/2774b1a2-9dd3-4dfb-a07d-bc8769745d6a)
-
-
+![image](https://github.com/user-attachments/assets/00ef54e3-ea07-4162-9b30-7b10070f82db)
 ## RESULT:
   Thus the Diffie-Hellman key exchange algorithm had been successfully implemented using C
